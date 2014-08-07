@@ -1,4 +1,4 @@
-# beer.csv / statistics
+# statistics
 
 Beer statistics (production in hl, consumption per capita, imports, exports, breweries, etc.).
 Example:
