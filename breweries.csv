@@ -1,32 +1,32 @@
-Country,2009,2011
-Austria,172,170 (97)
+Country,2011,2009
+Austria,170 (97),172
 Belgium,123,123
-Bulgaria,8,8 (5)
-Croatia,8,6
+Bulgaria,8 (5),8
+Croatia,6,8
 Cyprus,2,2
-Czech Republic,?,55 (130)
-Denmark,120,150
-Estonia,4,6
-Finland,5,25
-France,78,442
-Germany,1327,1341
-Greece,7,17
-Hungary,4,?
-Ireland,?,26
-Italy,301,391
-Latvia,15,?
-Lithuania,?,73
-Luxembourg,?,3
-Malta,?,1
-Netherlands,12,125
-Norway,?,32
-Poland,64,117
+Czech Republic,55 (130),?
+Denmark,150,120
+Estonia,6,4
+Finland,25,5
+France,442,78
+Germany,1341,1327
+Greece,17,7
+Hungary,?,4
+Ireland,26,?
+Italy,391,301
+Latvia,?,15
+Lithuania,73,?
+Luxembourg,3,?
+Malta,1,?
+Netherlands,125,12
+Norway,32,?
+Poland,117,64
 Portugal,7,7
-Romania,11,20
-Slovakia,6,5
+Romania,20,11
+Slovakia,5,6
 Slovenia,?,?
-Spain,20,88 (70)
-Sweden,40,65
-Switzerland,280,360
+Spain,88 (70),20
+Sweden,65,40
+Switzerland,360,280
 Turkey,11,11
-United Kingdom,745,946
+United Kingdom,946,745
