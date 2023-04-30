@@ -143,9 +143,9 @@ Or 150° ![](https://github.com/openpunkart/punks.blocks/raw/master/alien-invasi
 ### Alien with Cap
 
 Let's make punk #2890 - another super rare alien
-![](../punks.blocks/basic/alien-male.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/alien-male.png)
 with a cap
-![](../punks.blocks/basic/m/cap.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/cap.png)
 from scratch:
 
 ```
@@ -163,7 +163,7 @@ $ magick convert alien-male.png cap.png -background none -flatten punk2890.png
 ![](i/punk2890@2x.png)
 ![](i/punk2890@4x.png)
 
-Try the natural version ![](../punks.blocks/natural/alien-male-natural.png):
+Try the natural version ![](https://github.com/openpunkart/punks.blocks/raw/master/natural/alien-male-natural.png):
 
 ![](i/punk2890_natural.png)   2x, 4x:
 ![](i/punk2890_natural@2x.png)
@@ -175,9 +175,9 @@ Try the natural version ![](../punks.blocks/natural/alien-male-natural.png):
 
 Let's try the red (0°) variant.
 Let's make - a super rare alien
-![](../punks.blocks/alien-invasion/alien-male.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/alien-invasion/alien-male.png)
 with a cap
-![](../punks.blocks/all-caps/m/cap_0.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/all-caps/m/cap_0.png)
 from scratch:
 
 ```
@@ -199,7 +199,7 @@ $ magick convert punk2890_0.png -filter point -resize 400% punk2890_0x4.png
 ![](i/punk2890_0@4x.png)
 
 
-Or try the blue (240°) ![](../punks.blocks/all-caps/m/cap_240.png) variant - `cap_240.png`:
+Or try the blue (240°) ![](https://github.com/openpunkart/punks.blocks/raw/master/all-caps/m/cap_240.png) variant - `cap_240.png`:
 
 ![](i/punk2890_240.png)   2x, 4x:
 ![](i/punk2890_240@2x.png)
@@ -210,11 +210,11 @@ Or try the blue (240°) ![](../punks.blocks/all-caps/m/cap_240.png) variant - `c
 ### Humans with Cap
 
 Or let's make a (light skintone) human punk
-![](../punks.blocks/basic/human-male_light.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/human-male_light.png)
 with a red (0°) cap
-![](../punks.blocks/all-caps/m/cap_0.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/all-caps/m/cap_0.png)
 and a smile
-![](../punks.blocks/basic/m/smile.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/smile.png)
 from scratch:
 
 
@@ -236,8 +236,8 @@ $ magick convert human_light.png -filter point -resize 200% human_lightx2.png
 ![](i/human_light@4x.png)
 
 
-Or try the dark skintone ![](../punks.blocks/basic/human-male_dark.png) variant - `human-male_dark.png` -
-with a green (120°) cap ![](../punks.blocks/all-caps/m/cap_120.png)  - `cap_120.png`:
+Or try the dark skintone ![](https://github.com/openpunkart/punks.blocks/raw/master/basic/human-male_dark.png) variant - `human-male_dark.png` -
+with a green (120°) cap ![](https://github.com/openpunkart/punks.blocks/raw/master/all-caps/m/cap_120.png)  - `cap_120.png`:
 
 
 <!--
@@ -253,9 +253,9 @@ $ magick convert human-male_dark.png cap_120.png smile.png -background none -fla
 ### Doge Shiba Inu - Much Wow
 
 Let's make a doge punk  - a super rare alien
-![](../punks.blocks/doge/alien.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/alien.png)
 with a headband
-![](../punks.blocks/doge/headband.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/headband.png)
 from scratch:
 
 ```
@@ -276,9 +276,9 @@ $ magick convert alien.png \
 
 
 Or let's make a zombie
-![](../punks.blocks/doge/zombie.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/zombie.png)
 with a knitted cap
-![](../punks.blocks/doge/knittedcap.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/knittedcap.png)
 from scratch:
 
 
@@ -301,9 +301,9 @@ $ magick convert zombie_notop.png \
 
 
 Or let's make a classic
-![](../punks.blocks/doge/classic.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/classic.png)
 with a 3d glasses
-![](../punks.blocks/doge/3dglasses.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/doge/3dglasses.png)
 from scratch:
 
 
