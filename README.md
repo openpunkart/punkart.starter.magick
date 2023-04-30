@@ -8,13 +8,13 @@ to make your own punks.
 ### Alien with Cap Forward, Small Shades & Pipe
 
 Let's make punk #7804 - a super rare alien
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/alien-male.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/alien-male.png)
 with a capforward
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/capforward.png),
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/capforward.png),
 smallshades
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/smallshades.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/smallshades.png)
 and a pipe
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/pipe.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/pipe.png)
 from scratch:
 
 ```
@@ -67,7 +67,7 @@ $ magick convert punk7804.png -filter point -resize 400% punk7804x4.png
  -->
 
 
-Why stop? Let's add a smile ![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/misc/smile-alien.png)!
+Why stop? Let's add a smile ![](https://github.com/openpunkart/punks.blocks/raw/master/misc/smile-alien.png)!
 
 ```
 $ magick convert punk7804.png \
@@ -84,7 +84,7 @@ $ magick convert punk7804.png smile-alien.png  -background none -flatten punk780
 ![](i/punk7804_smile@4x.png)
 
 
-Try the natural version ![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/natural/alien-male-natural.png):
+Try the natural version ![](https://github.com/openpunkart/punks.blocks/raw/master/natural/alien-male-natural.png):
 
 ![](i/punk7804_natural.png)   2x, 4x:
 ![](i/punk7804_natural@2x.png)
@@ -96,13 +96,13 @@ Try the natural version ![](https://github.com/openpunkart/punks.blocks/raw/mast
 
 Let's try the green (120°) variant.
 Let's make - a super rare alien
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/alien-invasion/alien-male_120.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/alien-invasion/alien-male_120.png)
 with a capforward
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/capforward.png),
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/capforward.png),
 smallshades
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/smallshades.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/smallshades.png)
 and a pipe
-![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/basic/m/pipe.png)
+![](https://github.com/openpunkart/punks.blocks/raw/master/basic/m/pipe.png)
 from scratch:
 
 ```
@@ -125,13 +125,13 @@ $ magick convert punk7804_120.png -filter point -resize 400% punk7804_120x4.png
 ![](i/punk7804_120@2x.png)
 ![](i/punk7804_120@4x.png)
 
-Or try the 90° ![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/alien-invasion/alien-male_90.png) variant - `alien-male_90.png`:
+Or try the 90° ![](https://github.com/openpunkart/punks.blocks/raw/master/alien-invasion/alien-male_90.png) variant - `alien-male_90.png`:
 
 ![](i/punk7804_90.png)   2x, 4x:
 ![](i/punk7804_90@2x.png)
 ![](i/punk7804_90@4x.png)
 
-Or 150° ![](https://github.com/openpunkart/punks.blocks/raw/master/punks.blocks/alien-invasion/alien-male_150.png) - `alien-male_150.png`:
+Or 150° ![](https://github.com/openpunkart/punks.blocks/raw/master/alien-invasion/alien-male_150.png) - `alien-male_150.png`:
 
 ![](i/punk7804_150.png)   2x, 4x:
 ![](i/punk7804_150@2x.png)
